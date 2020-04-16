@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-16T08:59:21.663Z</updated>
+  <updated>2020-04-16T09:38:52.747Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://yoursite.com/2020/04/16/a-simply-start/"/>
     <id>http://yoursite.com/2020/04/16/a-simply-start/</id>
     <published>2020-04-16T08:57:58.000Z</published>
-    <updated>2020-04-16T08:59:21.663Z</updated>
+    <updated>2020-04-16T09:38:52.747Z</updated>
     
-    <content type="html"><![CDATA[<p>#just a test</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="just-a-test"><a href="#just-a-test" class="headerlink" title="just a test"></a>just a test</h1>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#just a test&lt;/p&gt;
-
+        &lt;h1 id=&quot;just-a-test&quot;&gt;&lt;a href=&quot;#just-a-test&quot; class=&quot;headerlink&quot; title=&quot;just a test&quot;&gt;&lt;/a&gt;just a test&lt;/h1&gt;
       
     
     </summary>
