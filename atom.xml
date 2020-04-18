@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="idayuanshuai.com/"/>
-  <updated>2020-04-18T14:16:11.165Z</updated>
+  <updated>2020-04-18T15:28:36.155Z</updated>
   <id>idayuanshuai.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>myself</title>
+    <link href="idayuanshuai.com/2020/04/18/myself/"/>
+    <id>idayuanshuai.com/2020/04/18/myself/</id>
+    <published>2020-04-18T15:28:16.000Z</published>
+    <updated>2020-04-18T15:28:36.155Z</updated>
+    
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer" /><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot; /&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>a_test</title>
