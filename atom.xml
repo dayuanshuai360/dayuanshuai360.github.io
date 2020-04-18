@@ -1,36 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>DAYUANSHUAI&#39;S BLOG | 元帅 | 个人博客</title>
   
-  
+  <subtitle>记录苦逼的生活</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-04-16T10:08:58.639Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="idayuanshuai.com/"/>
+  <updated>2020-04-18T14:16:11.165Z</updated>
+  <id>idayuanshuai.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>DAYUANSHUAI</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test_again</title>
-    <link href="http://yoursite.com/2020/04/16/test-again/"/>
-    <id>http://yoursite.com/2020/04/16/test-again/</id>
-    <published>2020-04-16T10:08:26.000Z</published>
-    <updated>2020-04-16T10:08:58.639Z</updated>
+    <title>a_test</title>
+    <link href="idayuanshuai.com/2020/04/18/a-test/"/>
+    <id>idayuanshuai.com/2020/04/18/a-test/</id>
+    <published>2020-04-18T09:42:01.000Z</published>
+    <updated>2020-04-18T14:16:11.165Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="hi-this-is-me"><a href="#hi-this-is-me" class="headerlink" title="hi! this is me"></a>hi! this is me</h1>]]></content>
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer" /><a id="more"></a><p><a href="https:www.github.com/dayuanshuai360/" target="_blank" rel="noopener" title="链接">github</a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;hi-this-is-me&quot;&gt;&lt;a href=&quot;#hi-this-is-me&quot; class=&quot;headerlink&quot; title=&quot;hi! this is me&quot;&gt;&lt;/a&gt;hi! this is me&lt;/h1&gt;
-      
+      &lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot; /&gt;
     
     </summary>
     
@@ -39,46 +36,29 @@
   </entry>
   
   <entry>
-    <title>a_simply_start</title>
-    <link href="http://yoursite.com/2020/04/16/a-simply-start/"/>
-    <id>http://yoursite.com/2020/04/16/a-simply-start/</id>
-    <published>2020-04-16T08:57:58.000Z</published>
-    <updated>2020-04-16T09:38:52.747Z</updated>
+    <title>算术运算符</title>
+    <link href="idayuanshuai.com/2020/04/18/%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
+    <id>idayuanshuai.com/2020/04/18/%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6/</id>
+    <published>2020-04-18T00:15:17.000Z</published>
+    <updated>2020-04-18T09:46:40.423Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="just-a-test"><a href="#just-a-test" class="headerlink" title="just a test"></a>just a test</h1>]]></content>
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer" /><h1 id="算术运算符"><a href="#算术运算符" class="headerlink" title="算术运算符"></a>算术运算符</h1><a id="more"></a><h2 id="01-算数运算符"><a href="#01-算数运算符" class="headerlink" title="01.算数运算符"></a>01.算数运算符</h2><table><thead><tr><th align="center">运算符</th><th align="center">描述</th><th align="center">实例</th></tr></thead><tbody><tr><td align="center">+</td><td align="center">加</td><td align="center">10 + 20 = 30</td></tr><tr><td align="center">-</td><td align="center">减</td><td align="center">10 - 20 =  -10</td></tr><tr><td align="center">*</td><td align="center">乘</td><td align="center">10 * 20 = 200</td></tr><tr><td align="center">/</td><td align="center">除</td><td align="center">10 / 20 = 0.5</td></tr><tr><td align="center">//</td><td align="center">取整除</td><td align="center">返回除法的整数部分（商）9 // 2 输出结果 4</td></tr><tr><td align="center">%</td><td align="center">取余数</td><td align="center">返回除法的余数 9 % 2  = 1</td></tr><tr><td align="center">**</td><td align="center">幂</td><td align="center">又称次方、乘方， 2 ** 3 = 8</td></tr></tbody></table><ul><li>在<strong>python</strong>中<kbd>*</kbd>运算符还可以用于字符串，计算结果就是字符串重复指定次数的结果</li></ul><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">In [<span class="number">1</span>]: <span class="string">"-"</span> * <span class="number">50</span></span><br><span class="line">Out[<span class="number">1</span>]:  <span class="string">'--------------------------------------------------'</span></span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;just-a-test&quot;&gt;&lt;a href=&quot;#just-a-test&quot; class=&quot;headerlink&quot; title=&quot;just a test&quot;&gt;&lt;/a&gt;just a test&lt;/h1&gt;
-      
+      &lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot; /&gt;
+
+&lt;h1 id=&quot;算术运算符&quot;&gt;&lt;a href=&quot;#算术运算符&quot; class=&quot;headerlink&quot; title=&quot;算术运算符&quot;&gt;&lt;/a&gt;算术运算符&lt;/h1&gt;
     
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/15/hello-world/"/>
-    <id>http://yoursite.com/2020/04/15/hello-world/</id>
-    <published>2020-04-15T11:57:14.173Z</published>
-    <updated>2020-04-15T11:57:14.173Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
+      <category term="python" scheme="idayuanshuai.com/categories/python/"/>
     
     
+      <category term="python" scheme="idayuanshuai.com/tags/python/"/>
+    
+      <category term="算术运算符" scheme="idayuanshuai.com/tags/%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
     
   </entry>
   

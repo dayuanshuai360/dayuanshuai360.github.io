@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/04/16/test-again/</loc>
+    <loc>idayuanshuai.com/2020/04/18/a-test/</loc>
     
-    <lastmod>2020-04-16T10:08:58.639Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/04/16/a-simply-start/</loc>
-    
-    <lastmod>2020-04-16T09:38:52.747Z</lastmod>
+    <lastmod>2020-04-18T14:16:11.165Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/15/hello-world/</loc>
+    <loc>idayuanshuai.com/2020/04/18/%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6/</loc>
     
-    <lastmod>2020-04-15T11:57:14.173Z</lastmod>
+    <lastmod>2020-04-18T09:46:40.423Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>idayuanshuai.com/categories/index.html</loc>
+    
+    <lastmod>2020-04-17T10:33:16.488Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>idayuanshuai.com/tags/index.html</loc>
+    
+    <lastmod>2020-04-17T10:29:32.678Z</lastmod>
     
   </url>
   
