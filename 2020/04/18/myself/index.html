@@ -386,7 +386,6 @@
 
   
   
-  
 
         </div>
         
@@ -673,6 +672,22 @@
 
 
 
+
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <div id="gitalk-container"></div>
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      clientID: 'cc557a3bde132a1f40eb',
+      clientSecret: 'bb6987fc123998fa591df4c0d70320d6a5899978',
+      repo: 'gitalk',
+      owner: 'dayuanshuai360',
+      admin: ['dayuanshuai360'], 
+      id: location.pathname,
+      distractionFreeMode: 'true'
+    })
+    gitalk.render('gitalk-container')
+  </script>
 
 
   
