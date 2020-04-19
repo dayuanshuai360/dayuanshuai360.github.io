@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>idayuanshuai.com/404.html</loc>
+    
+    <lastmod>2020-04-19T11:43:34.917Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>idayuanshuai.com/archives/index.html</loc>
+    
+    <lastmod>2020-04-19T11:41:33.841Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>idayuanshuai.com/tags/index.html</loc>
+    
+    <lastmod>2020-04-19T07:12:52.312Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>idayuanshuai.com/categories/index.html</loc>
+    
+    <lastmod>2020-04-19T07:12:30.060Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>idayuanshuai.com/2020/04/18/myself/</loc>
     
     <lastmod>2020-04-18T15:28:36.155Z</lastmod>
@@ -19,20 +47,6 @@
     <loc>idayuanshuai.com/2020/04/18/%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6/</loc>
     
     <lastmod>2020-04-18T09:46:40.423Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>idayuanshuai.com/categories/index.html</loc>
-    
-    <lastmod>2020-04-17T10:33:16.488Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>idayuanshuai.com/tags/index.html</loc>
-    
-    <lastmod>2020-04-17T10:29:32.678Z</lastmod>
     
   </url>
   
