@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>a_test</title>
+    <url>/2020/04/18/a-test/</url>
+    <content><![CDATA[<meta name="referrer" content="no-referrer" />
+<a id="more"></a>
+
+<p><a href="https:www.github.com/dayuanshuai360/" target="_blank" rel="noopener" title="链接">github</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>算术运算符</title>
+    <url>/2020/04/18/%E7%AE%97%E6%9C%AF%E8%BF%90%E7%AE%97%E7%AC%A6/</url>
+    <content><![CDATA[<meta name="referrer" content="no-referrer" />
+
+<h1 id="算术运算符"><a href="#算术运算符" class="headerlink" title="算术运算符"></a>算术运算符</h1><a id="more"></a>
+
+<h2 id="01-算数运算符"><a href="#01-算数运算符" class="headerlink" title="01.算数运算符"></a>01.算数运算符</h2><table>
+<thead>
+<tr>
+<th align="center">运算符</th>
+<th align="center">描述</th>
+<th align="center">实例</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">+</td>
+<td align="center">加</td>
+<td align="center">10 + 20 = 30</td>
+</tr>
+<tr>
+<td align="center">-</td>
+<td align="center">减</td>
+<td align="center">10 - 20 =  -10</td>
+</tr>
+<tr>
+<td align="center">*</td>
+<td align="center">乘</td>
+<td align="center">10 * 20 = 200</td>
+</tr>
+<tr>
+<td align="center">/</td>
+<td align="center">除</td>
+<td align="center">10 / 20 = 0.5</td>
+</tr>
+<tr>
+<td align="center">//</td>
+<td align="center">取整除</td>
+<td align="center">返回除法的整数部分（商）9 // 2 输出结果 4</td>
+</tr>
+<tr>
+<td align="center">%</td>
+<td align="center">取余数</td>
+<td align="center">返回除法的余数 9 % 2  = 1</td>
+</tr>
+<tr>
+<td align="center">**</td>
+<td align="center">幂</td>
+<td align="center">又称次方、乘方， 2 ** 3 = 8</td>
+</tr>
+</tbody></table>
+<ul>
+<li>在<strong>python</strong>中<kbd>*</kbd>运算符还可以用于字符串，计算结果就是字符串重复指定次数的结果</li>
+</ul>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">In [<span class="number">1</span>]: <span class="string">"-"</span> * <span class="number">50</span></span><br><span class="line">Out[<span class="number">1</span>]:  <span class="string">'--------------------------------------------------'</span></span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>python</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>算术运算符</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>myself</title>
+    <url>/2020/04/18/myself/</url>
+    <content><![CDATA[<meta name="referrer" content="no-referrer" />
+
+<a id="more"></a>]]></content>
+  </entry>
+</search>
