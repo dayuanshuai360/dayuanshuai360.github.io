@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="idayuanshuai.com/"/>
-  <updated>2020-04-18T15:28:36.155Z</updated>
+  <updated>2020-02-22T10:25:36.793Z</updated>
   <id>idayuanshuai.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>运算符</title>
+    <link href="idayuanshuai.com/2020/05/14/%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
+    <id>idayuanshuai.com/2020/05/14/%E8%BF%90%E7%AE%97%E7%AC%A6/</id>
+    <published>2020-05-14T03:09:23.095Z</published>
+    <updated>2020-02-22T10:25:36.793Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h1><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><ul><li>比较（关系）运算符</li><li>逻辑运算符</li><li>运算符的优先级</li></ul><h2 id="01-比较（关系）运算符"><a href="#01-比较（关系）运算符" class="headerlink" title="01.比较（关系）运算符"></a>01.比较（关系）运算符</h2><table><thead><tr><th align="center">运算符</th><th align="center">描述</th></tr></thead><tbody><tr><td align="center">==</td><td align="center">检查两个操作数的值是否<strong>相等</strong>，如果是，则条件成立，返回True</td></tr><tr><td align="center">!=</td><td align="center">检查两个操作数的值是否<strong>不相等</strong>，如果是，则条件成立，返回True</td></tr><tr><td align="center">&gt;</td><td align="center">检查左操作数的值是否<strong>大于</strong>右操作数的值，如果是，则条件成立，返回True</td></tr><tr><td align="center">&lt;</td><td align="center">检查左操作数的值是否<strong>小于</strong>右操作数的值，如果是，则条件成立，返回True</td></tr><tr><td align="center">&gt;=</td><td align="center">检查左操作数的值是否<strong>大于或等于</strong>右操作数的值，如果是，则条件成立，返回True</td></tr><tr><td align="center">&lt;=</td><td align="center">检查左操作数的值是否<strong>小于或等于</strong>右操作数的值，如果是，则条件成立，返回True</td></tr></tbody></table><blockquote><p>Python 2.x中判断<strong>不等于</strong>还可以使用<kbd><></kbd>运算符</p><p><kbd>!=</kbd>在Python 2.x中同样可以用来判断<strong>不等于</strong></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;运算符&quot;&gt;&lt;a href=&quot;#运算符&quot; class=&quot;headerlink&quot; title=&quot;运算符&quot;&gt;&lt;/a&gt;运算符&lt;/h1&gt;&lt;h2 id=&quot;目标&quot;&gt;&lt;a href=&quot;#目标&quot; class=&quot;headerlink&quot; title=&quot;目标&quot;&gt;&lt;/a&gt;目标&lt;/h2&gt;&lt;u
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>myself</title>

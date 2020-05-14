@@ -80,4 +80,50 @@
 
 <a id="more"></a>]]></content>
   </entry>
+  <entry>
+    <title>运算符</title>
+    <url>/2020/05/14/%E8%BF%90%E7%AE%97%E7%AC%A6/</url>
+    <content><![CDATA[<h1 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h1><h2 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h2><ul>
+<li>比较（关系）运算符</li>
+<li>逻辑运算符</li>
+<li>运算符的优先级</li>
+</ul>
+<h2 id="01-比较（关系）运算符"><a href="#01-比较（关系）运算符" class="headerlink" title="01.比较（关系）运算符"></a>01.比较（关系）运算符</h2><table>
+<thead>
+<tr>
+<th align="center">运算符</th>
+<th align="center">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">==</td>
+<td align="center">检查两个操作数的值是否<strong>相等</strong>，如果是，则条件成立，返回True</td>
+</tr>
+<tr>
+<td align="center">!=</td>
+<td align="center">检查两个操作数的值是否<strong>不相等</strong>，如果是，则条件成立，返回True</td>
+</tr>
+<tr>
+<td align="center">&gt;</td>
+<td align="center">检查左操作数的值是否<strong>大于</strong>右操作数的值，如果是，则条件成立，返回True</td>
+</tr>
+<tr>
+<td align="center">&lt;</td>
+<td align="center">检查左操作数的值是否<strong>小于</strong>右操作数的值，如果是，则条件成立，返回True</td>
+</tr>
+<tr>
+<td align="center">&gt;=</td>
+<td align="center">检查左操作数的值是否<strong>大于或等于</strong>右操作数的值，如果是，则条件成立，返回True</td>
+</tr>
+<tr>
+<td align="center">&lt;=</td>
+<td align="center">检查左操作数的值是否<strong>小于或等于</strong>右操作数的值，如果是，则条件成立，返回True</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>Python 2.x中判断<strong>不等于</strong>还可以使用<kbd><></kbd>运算符</p>
+<p><kbd>!=</kbd>在Python 2.x中同样可以用来判断<strong>不等于</strong></p>
+</blockquote>
+]]></content>
+  </entry>
 </search>
