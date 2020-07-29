@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>myself</title>
+    <url>/2020/04/18/myself/</url>
+    <content><![CDATA[<meta name="referrer" content="no-referrer" />
+
+<a id="more"></a>]]></content>
+  </entry>
+  <entry>
     <title>a_test</title>
     <url>/2020/04/18/a-test/</url>
     <content><![CDATA[<meta name="referrer" content="no-referrer" />
@@ -72,13 +79,6 @@
         <tag>python</tag>
         <tag>算术运算符</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>myself</title>
-    <url>/2020/04/18/myself/</url>
-    <content><![CDATA[<meta name="referrer" content="no-referrer" />
-
-<a id="more"></a>]]></content>
   </entry>
   <entry>
     <title>运算符</title>
