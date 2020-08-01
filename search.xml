@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>myself</title>
-    <url>/2020/04/18/myself/</url>
-    <content><![CDATA[<meta name="referrer" content="no-referrer" />
-
-<a id="more"></a>]]></content>
-  </entry>
-  <entry>
     <title>a_test</title>
     <url>/2020/04/18/a-test/</url>
     <content><![CDATA[<meta name="referrer" content="no-referrer" />
@@ -15,6 +8,13 @@
 
 <p><a href="https:www.github.com/dayuanshuai360/" target="_blank" rel="noopener" title="链接">github</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>myself</title>
+    <url>/2020/04/18/myself/</url>
+    <content><![CDATA[<meta name="referrer" content="no-referrer" />
+
+<a id="more"></a>]]></content>
   </entry>
   <entry>
     <title>算术运算符</title>
